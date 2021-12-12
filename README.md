@@ -6,4 +6,6 @@ The goal is to answer some business questions. For example, selecting 3 albums f
 
 The database structure was added as an image.
 
-[Go to Intermediate SQL Test Project]()
+Also, an unmodified database was added just in case.
+
+[Go to Intermediate SQL Test Project](https://github.com/Lutenebrax/Intermediate-SQL-Test-Project/blob/main/Basics.ipynb)
